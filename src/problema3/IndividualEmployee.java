@@ -1,3 +1,4 @@
+package problema3;
 public class IndividualEmployee implements Employee {
     private String name;
     private double salary;
